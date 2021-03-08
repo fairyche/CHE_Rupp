@@ -1,4 +1,4 @@
-<h1>CHE Rupp</hi>
+#CHE Rupp
 
 Maligayang pagdating kapwa Iskolar ng Bayan at estudyante ng Kolehiyo ng Ekonomiyang Pantahanan (UP Diliman)!
 
